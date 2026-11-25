@@ -1,0 +1,9 @@
+{
+  "version": "1.2.0",
+  "tag": "v1.2.0",
+  "patchPath": "ota/patch-v1.2.0.jwrpkg",
+  "patchSha256": "76ea8e04b483e75b00f4a9180e990b42f877290f90a0d34e55cfe282a1ede44f",
+  "sizeKB": 277.7,
+  "builtAt": "2026-11-25T13:38:49.897Z",
+  "notes": "Mac 独立版 + 自动静默 OTA 首发版本"
+}
