@@ -1,9 +1,9 @@
 {
-  "version": "1.2.1",
-  "tag": "v1.2.1",
-  "patchPath": "ota/patch-v1.2.1.jwrpkg",
-  "patchSha256": "d815ca53dcb7572eaaa2edd6a942c9094a6a983162087b416ad2d4fd19b7c213",
-  "sizeKB": 278.1,
-  "builtAt": "2026-11-26T03:36:27.206Z",
-  "notes": "同步教务宝机构所有者全量数据：补全2504条历史请假待补课记录、同步机构所有者角色权限、补齐清明节假日与11条历史试听记录"
+  "version": "1.2.2",
+  "tag": "v1.2.2",
+  "patchPath": "ota/patch-v1.2.2.jwrpkg",
+  "patchSha256": "45a2c8c4740ca7d66e5ef9006c3fcde684cd54d75b5cd311dbbb2feb708cc8f3",
+  "sizeKB": 278.8,
+  "builtAt": "2026-11-26T03:53:26.579Z",
+  "notes": "优化课表管理左侧时间轴刻度与半小时网格线对齐、重塑课节直边条卡片视觉"
 }
