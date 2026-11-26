@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
-  "tag": "v1.2.0",
-  "patchPath": "ota/patch-v1.2.0.jwrpkg",
-  "patchSha256": "76ea8e04b483e75b00f4a9180e990b42f877290f90a0d34e55cfe282a1ede44f",
-  "sizeKB": 277.7,
-  "builtAt": "2026-11-25T13:38:49.897Z",
-  "notes": "Mac 独立版 + 自动静默 OTA 首发版本"
+  "version": "1.2.1",
+  "tag": "v1.2.1",
+  "patchPath": "ota/patch-v1.2.1.jwrpkg",
+  "patchSha256": "d815ca53dcb7572eaaa2edd6a942c9094a6a983162087b416ad2d4fd19b7c213",
+  "sizeKB": 278.1,
+  "builtAt": "2026-11-26T03:36:27.206Z",
+  "notes": "同步教务宝机构所有者全量数据：补全2504条历史请假待补课记录、同步机构所有者角色权限、补齐清明节假日与11条历史试听记录"
 }
