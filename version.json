@@ -1,9 +1,9 @@
 {
-  "version": "1.2.2",
-  "tag": "v1.2.2",
-  "patchPath": "ota/patch-v1.2.2.jwrpkg",
-  "patchSha256": "45a2c8c4740ca7d66e5ef9006c3fcde684cd54d75b5cd311dbbb2feb708cc8f3",
-  "sizeKB": 278.8,
-  "builtAt": "2026-11-26T03:53:26.579Z",
-  "notes": "优化课表管理左侧时间轴刻度与半小时网格线对齐、重塑课节直边条卡片视觉"
+  "version": "1.2.3",
+  "tag": "v1.2.3",
+  "patchPath": "ota/patch-v1.2.3.jwrpkg",
+  "patchSha256": "a142a293f414c64c5e12b7da504ec5fcb251598a6d271cbd0ea3b7bdcf1e04a7",
+  "sizeKB": 294.2,
+  "builtAt": "2026-11-27T01:10:40.556Z",
+  "notes": "界面交互与视觉体验全面优化"
 }
