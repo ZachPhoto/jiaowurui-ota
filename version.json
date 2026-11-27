@@ -1,9 +1,9 @@
 {
-  "version": "1.2.3",
-  "tag": "v1.2.3",
-  "patchPath": "ota/patch-v1.2.3.jwrpkg",
-  "patchSha256": "a142a293f414c64c5e12b7da504ec5fcb251598a6d271cbd0ea3b7bdcf1e04a7",
-  "sizeKB": 294.2,
-  "builtAt": "2026-11-27T01:10:40.556Z",
-  "notes": "界面交互与视觉体验全面优化"
+  "version": "1.2.4",
+  "tag": "v1.2.4",
+  "patchPath": "ota/patch-v1.2.4.jwrpkg",
+  "patchSha256": "b7d47d0de0933c4bc22f9d6ce1a6e98c7943598233749f8cae95ffb81c1ca002",
+  "sizeKB": 577,
+  "builtAt": "2026-11-27T01:16:09.614Z",
+  "notes": "新增「睿」字应用图标，支持 Mac 桌面图标与浏览器标签图标自动同步"
 }
