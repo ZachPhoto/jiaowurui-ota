@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
-  "tag": "v1.2.4",
-  "patchPath": "ota/patch-v1.2.4.jwrpkg",
-  "patchSha256": "b7d47d0de0933c4bc22f9d6ce1a6e98c7943598233749f8cae95ffb81c1ca002",
-  "sizeKB": 577,
-  "builtAt": "2026-11-27T01:16:09.614Z",
-  "notes": "新增「睿」字应用图标，支持 Mac 桌面图标与浏览器标签图标自动同步"
+  "version": "1.2.5",
+  "tag": "v1.2.5",
+  "patchPath": "ota/patch-v1.2.5.jwrpkg",
+  "patchSha256": "51283fbd3e1d992943379def4ce62ac2cadc5350a9c4cefb6bc364e49ea9a153",
+  "sizeKB": 601.6,
+  "builtAt": "2026-11-28T02:27:22.233Z",
+  "notes": "第四期 UI/UX 进阶交互：课表实时冲突标红/底边调时长/右键菜单/快捷键、学员速览抽屉与按钮收敛、排课折叠与冲突顺延、智能补课推荐、Undo 撤销/筛选持久化/快捷视图/跨页全选、财务下钻与经营分析可视化"
 }
